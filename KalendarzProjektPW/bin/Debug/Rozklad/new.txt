@@ -1,0 +1,237 @@
+Temat,Lokalizacja,Data rozpoczêcia,Czas rozpoczêcia,Data zakoñczenia,Czas zakoñczenia,Przypomnienie w³./wy³.,Data przypomnienia,Czas przypomnienia
+Podstawy optymalizacji (Ep) [1],313 S,2019-02-18,09:50,2019-02-18,11:25,Fa³sz,2019-02-18,09:50
+Grafika komputerowa (Zp) [1],329 S,2019-02-19,09:50,2019-02-19,11:25,Fa³sz,2019-02-19,09:50
+Systemy Operacyjne (Zp) [1],121 65,2019-02-20,08:00,2019-02-20,09:35,Fa³sz,2019-02-20,08:00
+Systemy Operacyjne (Zp) [2],121 65,2019-02-20,09:50,2019-02-20,11:25,Fa³sz,2019-02-20,09:50
+Programowanie obiektowe (Zp) [1],236 S,2019-02-25,11:40,2019-02-25,13:15,Fa³sz,2019-02-25,11:40
+Systemy Operacyjne (Ep) [1],316 S,2019-02-25,13:30,2019-02-25,15:05,Fa³sz,2019-02-25,13:30
+Sztuczna Inteligencja (Zp) [1],313 S,2019-02-25,15:45,2019-02-25,17:20,Fa³sz,2019-02-25,15:45
+Wprowadzenie do automatyki (Zp) [1],121 65,2019-02-26,17:35,2019-02-26,19:10,Fa³sz,2019-02-26,17:35
+Grafika komputerowa (Zp) [2],329 S,2019-02-27,08:00,2019-02-27,09:35,Fa³sz,2019-02-27,08:00
+Grafika komputerowa (Ep) [1],313 S,2019-02-27,09:50,2019-02-27,11:25,Fa³sz,2019-02-27,09:50
+Programowanie obiektowe (Zp) [2],309 S,2019-02-27,11:40,2019-02-27,13:15,Fa³sz,2019-02-27,11:40
+Bazy danych (Ep) [1],313 S,2019-02-28,09:50,2019-02-28,11:25,Fa³sz,2019-02-28,09:50
+Statystyka matematyczna (Ep) [1],314 S,2019-02-28,11:40,2019-02-28,13:15,Fa³sz,2019-02-28,11:40
+Systemy wejœcia-wyjœcia komputerów (w) [1],313 S,2019-03-01,08:00,2019-03-01,09:35,Fa³sz,2019-03-01,08:00
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [1],aula/ 135,2019-03-04,09:50,2019-03-04,11:25,Fa³sz,2019-03-04,09:50
+Jêzyk angielski (æ) [1],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-03-04,13:30,2019-03-04,15:05,Fa³sz,2019-03-04,13:30
+Sieci komputerowe (w) [1],314 S,2019-03-04,15:45,2019-03-04,17:20,Fa³sz,2019-03-04,15:45
+Sieci komputerowe (w) [2],314 S,2019-03-04,17:35,2019-03-04,19:10,Fa³sz,2019-03-04,17:35
+Bezpieczeñstwo pracy i ergonomia. (w) [1],313 S,2019-03-06,09:50,2019-03-06,11:25,Fa³sz,2019-03-06,09:50
+Systemy wbudowane (w) [1],313 S,2019-03-06,11:40,2019-03-06,13:15,Fa³sz,2019-03-06,11:40
+Systemy wbudowane (w) [2],313 S,2019-03-06,13:30,2019-03-06,15:05,Fa³sz,2019-03-06,13:30
+Programowanie wspolbie¿ne (w) [1],317 S,2019-03-07,13:30,2019-03-07,15:05,Fa³sz,2019-03-07,13:30
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [1],231 K  232 K  233 K,2019-03-07,17:35,2019-03-07,19:10,Fa³sz,2019-03-07,17:35
+In¿ynieria oprogramowania (w) [1],314 S,2019-03-08,11:40,2019-03-08,13:15,Fa³sz,2019-03-08,11:40
+In¿ynieria oprogramowania (w) [2],314 S,2019-03-08,13:30,2019-03-08,15:05,Fa³sz,2019-03-08,13:30
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [2],aula/ 135,2019-03-11,09:50,2019-03-11,11:25,Fa³sz,2019-03-11,09:50
+Bezpieczeñstwo pracy i ergonomia. (w) [2],314 S,2019-03-11,11:40,2019-03-11,13:15,Fa³sz,2019-03-11,11:40
+Jêzyk angielski (æ) [2],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-03-11,13:30,2019-03-11,15:05,Fa³sz,2019-03-11,13:30
+Sieci komputerowe (w) [3],314 S,2019-03-11,15:45,2019-03-11,17:20,Fa³sz,2019-03-11,15:45
+Sieci komputerowe (w) [4],314 S,2019-03-11,17:35,2019-03-11,19:10,Fa³sz,2019-03-11,17:35
+Programowanie wspolbie¿ne (p) [1],233 S,2019-03-12,11:40,2019-03-12,13:15,Fa³sz,2019-03-12,11:40
+Programowanie wspolbie¿ne (p) [2],233 S,2019-03-12,13:30,2019-03-12,15:05,Fa³sz,2019-03-12,13:30
+Sieci komputerowe (L) [1],121 65,2019-03-12,15:45,2019-03-12,17:20,Fa³sz,2019-03-12,15:45
+Sieci komputerowe (L) [2],121 65,2019-03-12,17:35,2019-03-12,19:10,Fa³sz,2019-03-12,17:35
+Modelowanie matematyczne (w) [1],314 S,2019-03-13,13:30,2019-03-13,15:05,Fa³sz,2019-03-13,13:30
+Ochrona w³asnoœci intelektualnych (w) [1],313 S,2019-03-14,09:50,2019-03-14,11:25,Fa³sz,2019-03-14,09:50
+Ochrona w³asnoœci intelektualnych (w) [2],313 S,2019-03-14,11:40,2019-03-14,13:15,Fa³sz,2019-03-14,11:40
+Bezpieczeñstwo pracy i ergonomia. (L) [1],106 65,2019-03-14,13:30,2019-03-14,15:05,Fa³sz,2019-03-14,13:30
+Bezpieczeñstwo pracy i ergonomia. (L) [2],106 65,2019-03-14,15:45,2019-03-14,17:20,Fa³sz,2019-03-14,15:45
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [2],231 K  232 K  233 K,2019-03-14,17:35,2019-03-14,19:10,Fa³sz,2019-03-14,17:35
+Podstawy zarz¹dzania (w) [1],314 S,2019-03-15,08:00,2019-03-15,09:35,Fa³sz,2019-03-15,08:00
+In¿ynieria oprogramowania (L) [1],239 S,2019-03-15,09:50,2019-03-15,11:25,Fa³sz,2019-03-15,09:50
+In¿ynieria oprogramowania (L) [2],239 S,2019-03-15,11:40,2019-03-15,13:15,Fa³sz,2019-03-15,11:40
+Podstawy optymalizacji (Ep) [2],313 S,2019-03-18,08:00,2019-03-18,09:35,Fa³sz,2019-03-18,08:00
+Jêzyk angielski (æ) [3],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-03-18,13:30,2019-03-18,15:05,Fa³sz,2019-03-18,13:30
+Programowanie wspolbie¿ne (w) [2],317 S,2019-03-18,15:45,2019-03-18,17:20,Fa³sz,2019-03-18,15:45
+Bezpieczeñstwo pracy i ergonomia. (w) [3],313 S,2019-03-19,09:50,2019-03-19,11:25,Fa³sz,2019-03-19,09:50
+Systemy Operacyjne (Ep) [2],317 S,2019-03-20,09:50,2019-03-20,11:25,Fa³sz,2019-03-20,09:50
+Systemy wbudowane (w) [3],313 S,2019-03-20,11:40,2019-03-20,13:15,Fa³sz,2019-03-20,11:40
+Modelowanie matematyczne (w) [2],314 S,2019-03-20,13:30,2019-03-20,15:05,Fa³sz,2019-03-20,13:30
+Sieci komputerowe (L) [3],120 65,2019-03-21,08:00,2019-03-21,09:35,Fa³sz,2019-03-21,08:00
+Sieci komputerowe (L) [4],120 65,2019-03-21,09:50,2019-03-21,11:25,Fa³sz,2019-03-21,09:50
+Jêzyki i techniki programowania (w) [1],314 S,2019-03-21,11:40,2019-03-21,13:15,Fa³sz,2019-03-21,11:40
+Programowanie wspolbie¿ne (w) [3],317 S,2019-03-21,15:45,2019-03-21,17:20,Fa³sz,2019-03-21,15:45
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [3],231 K  232 K  233 K,2019-03-21,17:35,2019-03-21,19:10,Fa³sz,2019-03-21,17:35
+Systemy wejœcia-wyjœcia komputerów (L) [1],011 65,2019-03-22,08:00,2019-03-22,09:35,Fa³sz,2019-03-22,08:00
+Systemy wejœcia-wyjœcia komputerów (L) [2],011 65,2019-03-22,09:50,2019-03-22,11:25,Fa³sz,2019-03-22,09:50
+In¿ynieria oprogramowania (w) [3],314 S,2019-03-22,11:40,2019-03-22,13:15,Fa³sz,2019-03-22,11:40
+In¿ynieria oprogramowania (w) [4],313 S,2019-03-22,13:30,2019-03-22,15:05,Fa³sz,2019-03-22,13:30
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [3],aula/ 135,2019-03-25,09:50,2019-03-25,11:25,Fa³sz,2019-03-25,09:50
+Bezpieczeñstwo pracy i ergonomia. (w) [4],314 S,2019-03-25,11:40,2019-03-25,13:15,Fa³sz,2019-03-25,11:40
+Jêzyk angielski (æ) [4],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-03-25,13:30,2019-03-25,15:05,Fa³sz,2019-03-25,13:30
+Sieci komputerowe (w) [5],314 S,2019-03-25,15:45,2019-03-25,17:20,Fa³sz,2019-03-25,15:45
+Sieci komputerowe (w) [6],314 S,2019-03-25,17:35,2019-03-25,19:10,Fa³sz,2019-03-25,17:35
+Programowanie wspolbie¿ne (L) [1],236 S,2019-03-26,08:00,2019-03-26,09:35,Fa³sz,2019-03-26,08:00
+Programowanie wspolbie¿ne (L) [2],236 S,2019-03-26,09:50,2019-03-26,11:25,Fa³sz,2019-03-26,09:50
+Sieci komputerowe (L) [5],120 65,2019-03-26,11:40,2019-03-26,13:15,Fa³sz,2019-03-26,11:40
+Sieci komputerowe (L) [6],120 65,2019-03-26,13:30,2019-03-26,15:05,Fa³sz,2019-03-26,13:30
+Systemy wbudowane (w) [4],313 S,2019-03-27,09:50,2019-03-27,11:25,Fa³sz,2019-03-27,09:50
+Systemy wbudowane (w) [5],313 S,2019-03-27,11:40,2019-03-27,13:15,Fa³sz,2019-03-27,11:40
+Modelowanie matematyczne (w) [3],314 S,2019-03-27,13:30,2019-03-27,15:05,Fa³sz,2019-03-27,13:30
+Modelowanie matematyczne (æ) [1],308 S,2019-03-28,15:45,2019-03-28,17:20,Fa³sz,2019-03-28,15:45
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [4],231 K  232 K  233 K,2019-03-28,17:35,2019-03-28,19:10,Fa³sz,2019-03-28,17:35
+Podstawy zarz¹dzania (w) [2],314 S,2019-03-29,08:00,2019-03-29,09:35,Fa³sz,2019-03-29,08:00
+In¿ynieria oprogramowania (L) [3],239 S,2019-03-29,09:50,2019-03-29,11:25,Fa³sz,2019-03-29,09:50
+Programowanie wspolbie¿ne (w) [4],317 S,2019-03-29,11:40,2019-03-29,13:15,Fa³sz,2019-03-29,11:40
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [4],aula/ 135,2019-04-01,09:50,2019-04-01,11:25,Fa³sz,2019-04-01,09:50
+Jêzyk angielski (æ) [5],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-04-01,13:30,2019-04-01,15:05,Fa³sz,2019-04-01,13:30
+Sieci komputerowe (w) [7],314 S,2019-04-01,15:45,2019-04-01,17:20,Fa³sz,2019-04-01,15:45
+Sieci komputerowe (w) [8],314 S,2019-04-01,17:35,2019-04-01,19:10,Fa³sz,2019-04-01,17:35
+Systemy wbudowane (L) [1],09 65,2019-04-02,11:40,2019-04-02,13:15,Fa³sz,2019-04-02,11:40
+Systemy wbudowane (L) [2],09 65,2019-04-02,13:30,2019-04-02,15:05,Fa³sz,2019-04-02,13:30
+Systemy wbudowane (w) [6],313 S,2019-04-03,11:40,2019-04-03,13:15,Fa³sz,2019-04-03,11:40
+Modelowanie matematyczne (w) [4],314 S,2019-04-03,13:30,2019-04-03,15:05,Fa³sz,2019-04-03,13:30
+Modelowanie matematyczne (æ) [2],307 S,2019-04-03,15:45,2019-04-03,17:20,Fa³sz,2019-04-03,15:45
+Jêzyki i techniki programowania (L) [1],233 S,2019-04-03,17:35,2019-04-03,19:10,Fa³sz,2019-04-03,17:35
+Jêzyki i techniki programowania (L) [2],233 S,2019-04-03,19:25,2019-04-03,21:00,Fa³sz,2019-04-03,19:25
+Systemy wejœcia-wyjœcia komputerów (w) [2],314 S,2019-04-04,09:50,2019-04-04,11:25,Fa³sz,2019-04-04,09:50
+Jêzyki i techniki programowania (w) [2],314 S,2019-04-04,11:40,2019-04-04,13:15,Fa³sz,2019-04-04,11:40
+Programowanie wspolbie¿ne (w) [5],317 S,2019-04-04,13:30,2019-04-04,15:05,Fa³sz,2019-04-04,13:30
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [5],231 K  232 K  233 K,2019-04-04,17:35,2019-04-04,19:10,Fa³sz,2019-04-04,17:35
+Systemy wejœcia-wyjœcia komputerów (w) [3],314 S,2019-04-05,08:00,2019-04-05,09:35,Fa³sz,2019-04-05,08:00
+In¿ynieria oprogramowania (w) [5],314 S,2019-04-05,11:40,2019-04-05,13:15,Fa³sz,2019-04-05,11:40
+In¿ynieria oprogramowania (w) [6],314 S,2019-04-05,13:30,2019-04-05,15:05,Fa³sz,2019-04-05,13:30
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [5],aula/ 135,2019-04-08,09:50,2019-04-08,11:25,Fa³sz,2019-04-08,09:50
+Bezpieczeñstwo pracy i ergonomia. (w) [5],314 S,2019-04-08,11:40,2019-04-08,13:15,Fa³sz,2019-04-08,11:40
+Jêzyk angielski (æ) [6],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-04-08,13:30,2019-04-08,15:05,Fa³sz,2019-04-08,13:30
+Sieci komputerowe (w) [9],314 S,2019-04-08,15:45,2019-04-08,17:20,Fa³sz,2019-04-08,15:45
+Programowanie wspolbie¿ne (L) [3],236 S,2019-04-09,08:00,2019-04-09,09:35,Fa³sz,2019-04-09,08:00
+Programowanie wspolbie¿ne (L) [4],236 S,2019-04-09,09:50,2019-04-09,11:25,Fa³sz,2019-04-09,09:50
+Systemy wejœcia-wyjœcia komputerów (æ) [1],23 65,2019-04-10,09:50,2019-04-10,11:25,Fa³sz,2019-04-10,09:50
+Systemy wbudowane (w) [7],313 S,2019-04-10,11:40,2019-04-10,13:15,Fa³sz,2019-04-10,11:40
+Modelowanie matematyczne (w) [5],314 S,2019-04-10,13:30,2019-04-10,15:05,Fa³sz,2019-04-10,13:30
+Sieci komputerowe (L) [7],120 65,2019-04-10,15:45,2019-04-10,17:20,Fa³sz,2019-04-10,15:45
+Spotkanie w sprawie wyboru specjalnoœci (w) [1],315 S,2019-04-11,08:00,2019-04-11,09:35,Fa³sz,2019-04-11,08:00
+Ochrona w³asnoœci intelektualnych (w) [3],313 S,2019-04-11,09:50,2019-04-11,11:25,Fa³sz,2019-04-11,09:50
+Ochrona w³asnoœci intelektualnych (w) [4],313 S,2019-04-11,11:40,2019-04-11,13:15,Fa³sz,2019-04-11,11:40
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [6],231 K  232 K  233 K,2019-04-11,17:35,2019-04-11,19:10,Fa³sz,2019-04-11,17:35
+Podstawy zarz¹dzania (w) [3],314 S,2019-04-12,08:00,2019-04-12,09:35,Fa³sz,2019-04-12,08:00
+In¿ynieria oprogramowania (L) [4],239 S,2019-04-12,09:50,2019-04-12,11:25,Fa³sz,2019-04-12,09:50
+In¿ynieria oprogramowania (L) [5],239 S,2019-04-12,11:40,2019-04-12,13:15,Fa³sz,2019-04-12,11:40
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [6],aula/ 135,2019-04-15,09:50,2019-04-15,11:25,Fa³sz,2019-04-15,09:50
+Ochrona w³asnoœci intelektualnych (æ) [1],223 S,2019-04-15,11:40,2019-04-15,13:15,Fa³sz,2019-04-15,11:40
+Jêzyk angielski (æ) [7],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-04-15,13:30,2019-04-15,15:05,Fa³sz,2019-04-15,13:30
+Sieci komputerowe (w) [10],314 S,2019-04-15,15:45,2019-04-15,17:20,Fa³sz,2019-04-15,15:45
+Sieci komputerowe (w) [11],314 S,2019-04-15,17:35,2019-04-15,19:10,Fa³sz,2019-04-15,17:35
+Bezpieczeñstwo pracy i ergonomia. (w) [6],313 S,2019-04-16,09:50,2019-04-16,11:25,Fa³sz,2019-04-16,09:50
+Systemy wejœcia-wyjœcia komputerów (w) [4],314 S,2019-04-16,13:30,2019-04-16,15:05,Fa³sz,2019-04-16,13:30
+Podstawy zarz¹dzania (w) [4],313 S,2019-04-17,08:00,2019-04-17,09:35,Fa³sz,2019-04-17,08:00
+Systemy wbudowane (w) [8],313 S,2019-04-17,11:40,2019-04-17,13:15,Fa³sz,2019-04-17,11:40
+Modelowanie matematyczne (w) [6],314 S,2019-04-17,13:30,2019-04-17,15:05,Fa³sz,2019-04-17,13:30
+Modelowanie matematyczne (æ) [3],307 S,2019-04-17,15:45,2019-04-17,17:20,Fa³sz,2019-04-17,15:45
+Jêzyki i techniki programowania (L) [3],329 S,2019-04-17,17:35,2019-04-17,19:10,Fa³sz,2019-04-17,17:35
+Jêzyki i techniki programowania (L) [4],329 S,2019-04-17,19:25,2019-04-17,21:00,Fa³sz,2019-04-17,19:25
+Systemy wejœcia-wyjœcia komputerów (w) [5],314 S,2019-04-18,09:50,2019-04-18,11:25,Fa³sz,2019-04-18,09:50
+Jêzyki i techniki programowania (w) [3],314 S,2019-04-18,11:40,2019-04-18,13:15,Fa³sz,2019-04-18,11:40
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [7],231 K  232 K  233 K,2019-04-18,17:35,2019-04-18,19:10,Fa³sz,2019-04-18,17:35
+Systemy wbudowane (w) [9],313 S,2019-04-24,11:40,2019-04-24,13:15,Fa³sz,2019-04-24,11:40
+Modelowanie matematyczne (w) [7],314 S,2019-04-24,13:30,2019-04-24,15:05,Fa³sz,2019-04-24,13:30
+Systemy wejœcia-wyjœcia komputerów (L) [3],011 65,2019-04-24,15:45,2019-04-24,17:20,Fa³sz,2019-04-24,15:45
+Systemy wejœcia-wyjœcia komputerów (L) [4],011 65,2019-04-24,17:35,2019-04-24,19:10,Fa³sz,2019-04-24,17:35
+In¿ynieria oprogramowania (w) [7],317 S,2019-04-25,09:50,2019-04-25,11:25,Fa³sz,2019-04-25,09:50
+Jêzyki i techniki programowania (w) [4],314 S,2019-04-25,11:40,2019-04-25,13:15,Fa³sz,2019-04-25,11:40
+Systemy wbudowane (L) [3],09 65,2019-04-25,17:35,2019-04-25,19:10,Fa³sz,2019-04-25,17:35
+Systemy wbudowane (L) [4],09 65,2019-04-25,19:25,2019-04-25,21:00,Fa³sz,2019-04-25,19:25
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [8],231 K,2019-04-25,,2019-04-25,,Fa³sz,2019-04-25,
+Podstawy zarz¹dzania (w) [5],314 S,2019-04-26,08:00,2019-04-26,09:35,Fa³sz,2019-04-26,08:00
+In¿ynieria oprogramowania (L) [6],239 S,2019-04-26,09:50,2019-04-26,11:25,Fa³sz,2019-04-26,09:50
+In¿ynieria oprogramowania (L) [7],239 S,2019-04-26,11:40,2019-04-26,13:15,Fa³sz,2019-04-26,11:40
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [7],aula/ 135,2019-04-29,09:50,2019-04-29,11:25,Fa³sz,2019-04-29,09:50
+Jêzyk angielski (æ) [8],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-04-29,13:30,2019-04-29,15:05,Fa³sz,2019-04-29,13:30
+Sieci komputerowe (w) [12],314 S,2019-04-29,15:45,2019-04-29,17:20,Fa³sz,2019-04-29,15:45
+Sieci komputerowe (w) [13],314 S,2019-04-29,17:35,2019-04-29,19:10,Fa³sz,2019-04-29,17:35
+Systemy wejœcia-wyjœcia komputerów (w) [6],314 S,2019-04-30,13:30,2019-04-30,15:05,Fa³sz,2019-04-30,13:30
+Systemy wejœcia-wyjœcia komputerów (w) [7],314 S,2019-04-30,15:45,2019-04-30,17:20,Fa³sz,2019-04-30,15:45
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [8],aula/ 135,2019-05-06,09:50,2019-05-06,11:25,Fa³sz,2019-05-06,09:50
+Jêzyk angielski (æ) [9],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-05-06,13:30,2019-05-06,15:05,Fa³sz,2019-05-06,13:30
+Sieci komputerowe (w) [14],314 S,2019-05-06,15:45,2019-05-06,17:20,Fa³sz,2019-05-06,15:45
+Sieci komputerowe (w) [15],314 S,2019-05-06,17:35,2019-05-06,19:10,Fa³sz,2019-05-06,17:35
+Podstawy zarz¹dzania (æ) [1],101 65,2019-05-07,11:40,2019-05-07,13:15,Fa³sz,2019-05-07,11:40
+Systemy wejœcia-wyjœcia komputerów (w) [8],314 S,2019-05-07,13:30,2019-05-07,15:05,Fa³sz,2019-05-07,13:30
+Systemy wejœcia-wyjœcia komputerów (w) [9],314 S,2019-05-07,15:45,2019-05-07,17:20,Fa³sz,2019-05-07,15:45
+Jêzyki i techniki programowania (L) [5],228 S,2019-05-07,17:35,2019-05-07,19:10,Fa³sz,2019-05-07,17:35
+Jêzyki i techniki programowania (L) [6],228 S,2019-05-07,19:25,2019-05-07,21:00,Fa³sz,2019-05-07,19:25
+Systemy wbudowane (w) [10],317 S,2019-05-08,11:40,2019-05-08,13:15,Fa³sz,2019-05-08,11:40
+Systemy wejœcia-wyjœcia komputerów (æ) [2],203 65,2019-05-08,15:45,2019-05-08,17:20,Fa³sz,2019-05-08,15:45
+Modelowanie matematyczne (æ) [4],307 S,2019-05-08,17:35,2019-05-08,19:10,Fa³sz,2019-05-08,17:35
+Programowanie wspolbie¿ne (L) [5],236 S,2019-05-09,11:40,2019-05-09,13:15,Fa³sz,2019-05-09,11:40
+Programowanie wspolbie¿ne (L) [6],236 S,2019-05-09,13:30,2019-05-09,15:05,Fa³sz,2019-05-09,13:30
+Systemy wbudowane (L) [5],09 65,2019-05-09,15:45,2019-05-09,17:20,Fa³sz,2019-05-09,15:45
+Systemy wbudowane (L) [6],09 65,2019-05-09,17:35,2019-05-09,19:10,Fa³sz,2019-05-09,17:35
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [9],231 K,2019-05-09,,2019-05-09,,Fa³sz,2019-05-09,
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [9],aula/ 135,2019-05-13,09:50,2019-05-13,11:25,Fa³sz,2019-05-13,09:50
+Jêzyk angielski (æ) [10],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-05-13,13:30,2019-05-13,15:05,Fa³sz,2019-05-13,13:30
+Sieci komputerowe (L) [8],121 65,2019-05-13,15:45,2019-05-13,17:20,Fa³sz,2019-05-13,15:45
+Sieci komputerowe (L) [9],121 65,2019-05-13,17:35,2019-05-13,19:10,Fa³sz,2019-05-13,17:35
+Programowanie wspolbie¿ne (L) [7],228 S,2019-05-14,11:40,2019-05-14,13:15,Fa³sz,2019-05-14,11:40
+Programowanie wspolbie¿ne (L) [8],228 S,2019-05-14,13:30,2019-05-14,15:05,Fa³sz,2019-05-14,13:30
+Jêzyki i techniki programowania (L) [7],233 S,2019-05-14,17:35,2019-05-14,19:10,Fa³sz,2019-05-14,17:35
+Jêzyki i techniki programowania (L) [8],233 S,2019-05-14,19:25,2019-05-14,21:00,Fa³sz,2019-05-14,19:25
+Jêzyki i techniki programowania (w) [5],314 S,2019-05-16,09:50,2019-05-16,11:25,Fa³sz,2019-05-16,09:50
+Modelowanie matematyczne (æ) [5],307 S,2019-05-16,15:45,2019-05-16,17:20,Fa³sz,2019-05-16,15:45
+Systemy wbudowane (L) [7],09 65,2019-05-16,17:35,2019-05-16,19:10,Fa³sz,2019-05-16,17:35
+Systemy wbudowane (L) [8],09 65,2019-05-16,19:25,2019-05-16,21:00,Fa³sz,2019-05-16,19:25
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [10],231 K,2019-05-16,,2019-05-16,,Fa³sz,2019-05-16,
+Podstawy zarz¹dzania (w) [6],314 S,2019-05-17,08:00,2019-05-17,09:35,Fa³sz,2019-05-17,08:00
+In¿ynieria oprogramowania (L) [8],239 S,2019-05-17,09:50,2019-05-17,11:25,Fa³sz,2019-05-17,09:50
+In¿ynieria oprogramowania (L) [9],239 S,2019-05-17,11:40,2019-05-17,13:15,Fa³sz,2019-05-17,11:40
+Programowanie wspolbie¿ne (p) [3],223 S,2019-05-20,09:50,2019-05-20,11:25,Fa³sz,2019-05-20,09:50
+Programowanie wspolbie¿ne (p) [4],223 S,2019-05-20,11:40,2019-05-20,13:15,Fa³sz,2019-05-20,11:40
+Jêzyk angielski (æ) [11],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-05-20,13:30,2019-05-20,15:05,Fa³sz,2019-05-20,13:30
+Programowanie wspolbie¿ne (w) [6],313 S,2019-05-20,15:45,2019-05-20,17:20,Fa³sz,2019-05-20,15:45
+Programowanie wspolbie¿ne (L) [9],236 S,2019-05-21,08:00,2019-05-21,09:35,Fa³sz,2019-05-21,08:00
+Programowanie wspolbie¿ne (L) [10],236 S,2019-05-21,09:50,2019-05-21,11:25,Fa³sz,2019-05-21,09:50
+Systemy wejœcia-wyjœcia komputerów (L) [5],011 65,2019-05-21,11:40,2019-05-21,13:15,Fa³sz,2019-05-21,11:40
+Systemy wejœcia-wyjœcia komputerów (L) [6],011 65,2019-05-21,13:30,2019-05-21,15:05,Fa³sz,2019-05-21,13:30
+Modelowanie matematyczne (æ) [6],307 S,2019-05-23,13:30,2019-05-23,15:05,Fa³sz,2019-05-23,13:30
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [11],231 K  232 K  233 K,2019-05-23,17:35,2019-05-23,19:10,Fa³sz,2019-05-23,17:35
+Sieci komputerowe (L) [10],121 65,2019-05-24,13:30,2019-05-24,15:05,Fa³sz,2019-05-24,13:30
+Sieci komputerowe (L) [11],121 65,2019-05-24,15:45,2019-05-24,17:20,Fa³sz,2019-05-24,15:45
+Sieci komputerowe (L) [12],120 65,2019-05-27,09:50,2019-05-27,11:25,Fa³sz,2019-05-27,09:50
+Sieci komputerowe (L) [13],120 65,2019-05-27,11:40,2019-05-27,13:15,Fa³sz,2019-05-27,11:40
+Jêzyk angielski (æ) [12],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-05-27,13:30,2019-05-27,15:05,Fa³sz,2019-05-27,13:30
+Sieci komputerowe (L) [14],120 65,2019-05-28,15:45,2019-05-28,17:20,Fa³sz,2019-05-28,15:45
+Sieci komputerowe (L) [15],120 65,2019-05-28,17:35,2019-05-28,19:10,Fa³sz,2019-05-28,17:35
+Systemy wejœcia-wyjœcia komputerów (w) [10],314 S,2019-05-30,11:40,2019-05-30,13:15,Fa³sz,2019-05-30,11:40
+Modelowanie matematyczne (æ) [7],307 S,2019-05-30,13:30,2019-05-30,15:05,Fa³sz,2019-05-30,13:30
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [12],231 K  232 K  233 K,2019-05-30,17:35,2019-05-30,19:10,Fa³sz,2019-05-30,17:35
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [13],231 K,2019-05-30,,2019-05-30,,Fa³sz,2019-05-30,
+In¿ynieria oprogramowania (L) [10],239 S,2019-05-31,09:50,2019-05-31,11:25,Fa³sz,2019-05-31,09:50
+In¿ynieria oprogramowania (L) [11],239 S,2019-05-31,11:40,2019-05-31,13:15,Fa³sz,2019-05-31,11:40
+Podstawy zarz¹dzania (æ) [2],201 65,2019-05-31,13:30,2019-05-31,15:05,Fa³sz,2019-05-31,13:30
+Podstawy zarz¹dzania (æ) [3],205 65,2019-06-03,09:50,2019-06-03,11:25,Fa³sz,2019-06-03,09:50
+Jêzyk angielski (æ) [13],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-06-03,13:30,2019-06-03,15:05,Fa³sz,2019-06-03,13:30
+Modelowanie matematyczne (æ) [8],307 S,2019-06-06,11:40,2019-06-06,13:15,Fa³sz,2019-06-06,11:40
+Systemy wejœcia-wyjœcia komputerów (L) [7],09 65,2019-06-06,13:30,2019-06-06,15:05,Fa³sz,2019-06-06,13:30
+Systemy wejœcia-wyjœcia komputerów (L) [8],09 65,2019-06-06,15:45,2019-06-06,17:20,Fa³sz,2019-06-06,15:45
+Systemy wbudowane (L) [9],09 65,2019-06-06,17:35,2019-06-06,19:10,Fa³sz,2019-06-06,17:35
+Systemy wbudowane (L) [10],09 65,2019-06-06,19:25,2019-06-06,21:00,Fa³sz,2019-06-06,19:25
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [14],231 K,2019-06-06,,2019-06-06,,Fa³sz,2019-06-06,
+In¿ynieria oprogramowania (L) [12],239 S,2019-06-07,08:00,2019-06-07,09:35,Fa³sz,2019-06-07,08:00
+In¿ynieria oprogramowania (L) [13],239 S,2019-06-07,09:50,2019-06-07,11:25,Fa³sz,2019-06-07,09:50
+Biznesowe, zawodowe i spo³eczne problemy informatyki (w) [10],aula/ 135,2019-06-10,09:50,2019-06-10,11:25,Fa³sz,2019-06-10,09:50
+Jêzyk angielski (æ) [14],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-06-10,13:30,2019-06-10,15:05,Fa³sz,2019-06-10,13:30
+Jêzyki i techniki programowania (L) [9],239 S,2019-06-10,17:35,2019-06-10,19:10,Fa³sz,2019-06-10,17:35
+Jêzyki i techniki programowania (L) [10],239 S,2019-06-10,19:25,2019-06-10,21:00,Fa³sz,2019-06-10,19:25
+Modelowanie matematyczne (Zal) [1],314 S,2019-06-12,11:40,2019-06-12,13:15,Fa³sz,2019-06-12,11:40
+Systemy wbudowane (L) [11],09 65,2019-06-13,17:35,2019-06-13,19:10,Fa³sz,2019-06-13,17:35
+Systemy wbudowane (L) [12],09 65,2019-06-13,19:25,2019-06-13,21:00,Fa³sz,2019-06-13,19:25
+Jêzyk obcy (II) miêdzywydzia³owy (æ) [15],231 K,2019-06-13,,2019-06-13,,Fa³sz,2019-06-13,
+In¿ynieria oprogramowania (L) [14],239 S,2019-06-14,08:00,2019-06-14,09:35,Fa³sz,2019-06-14,08:00
+In¿ynieria oprogramowania (L) [15],239 S,2019-06-14,09:50,2019-06-14,11:25,Fa³sz,2019-06-14,09:50
+Systemy wejœcia-wyjœcia komputerów (L) [9],09 65,2019-06-14,11:40,2019-06-14,13:15,Fa³sz,2019-06-14,11:40
+Systemy wejœcia-wyjœcia komputerów (L) [10],09 65,2019-06-14,13:30,2019-06-14,15:05,Fa³sz,2019-06-14,13:30
+Bezpieczeñstwo pracy i ergonomia. (L) [3],011 65,2019-06-14,15:45,2019-06-14,17:20,Fa³sz,2019-06-14,15:45
+Bezpieczeñstwo pracy i ergonomia. (L) [4],011 65,2019-06-14,17:35,2019-06-14,19:10,Fa³sz,2019-06-14,17:35
+Programowanie wspolbie¿ne (p) [5],228 S,2019-06-17,09:50,2019-06-17,11:25,Fa³sz,2019-06-17,09:50
+Programowanie wspolbie¿ne (p) [6],228 S,2019-06-17,11:40,2019-06-17,13:15,Fa³sz,2019-06-17,11:40
+Jêzyk angielski (æ) [15],125 K  120 K  121 K  124 K  126 K  133 K  134 K,2019-06-17,13:30,2019-06-17,15:05,Fa³sz,2019-06-17,13:30
+Podstawy zarz¹dzania (w) [7],314 S,2019-06-19,11:40,2019-06-19,13:15,Fa³sz,2019-06-19,11:40
+Systemy wbudowane (E) [1],313 S,2019-06-24,09:50,2019-06-24,11:25,Fa³sz,2019-06-24,09:50
+Jêzyki i techniki programowania (Zal) [1],314 S  313 S  316 S  317 S,2019-06-24,15:45,2019-06-24,17:20,Fa³sz,2019-06-24,15:45
+Jêzyki i techniki programowania (Zal) [2],314 S  313 S  316 S  317 S,2019-06-24,17:35,2019-06-24,19:10,Fa³sz,2019-06-24,17:35
+Jêzyki i techniki programowania (Zal) [3],314 S  313 S  316 S  317 S,2019-06-24,19:25,2019-06-24,21:00,Fa³sz,2019-06-24,19:25
+In¿ynieria oprogramowania (E) [1],316 S,2019-06-28,11:40,2019-06-28,13:15,Fa³sz,2019-06-28,11:40
+Sieci komputerowe (E) [1],120 65  121 65,2019-07-03,11:40,2019-07-03,13:15,Fa³sz,2019-07-03,11:40
