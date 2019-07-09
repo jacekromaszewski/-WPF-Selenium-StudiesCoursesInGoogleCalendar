@@ -40,9 +40,9 @@
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="737,430,0,0" TextWrapping="Wrap" Text="" Name="INFO" VerticalAlignment="Top" Width="226"/>
         <Rectangle Fill="WhiteSmoke" HorizontalAlignment="Left" Height="399" Margin="737,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="226"/>
         <Label Content="EDziekanat" FontSize="18" HorizontalAlignment="Left" Height="41" Margin="796,21,0,0" VerticalAlignment="Top" Width="138"/>
-        <TextBox HorizontalAlignment="Left" Name="USER" Height="24" Margin="814,98,0,0" TextWrapping="Wrap" Text="jacekromaszewski" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Name="USER" Height="24" Margin="814,98,0,0" TextWrapping="Wrap" Text="jlogin" VerticalAlignment="Top" Width="120"/>
         <Label Content="Login" HorizontalAlignment="Left" Margin="756,98,0,0" VerticalAlignment="Top"/>
-        <PasswordBox Name="PASS" Margin="814,134,0,0" VerticalAlignment="Top" Height="22" HorizontalAlignment="Left" Width="120" Password="#Notalife-0"/>
+        <PasswordBox Name="PASS" Margin="814,134,0,0" VerticalAlignment="Top" Height="22" HorizontalAlignment="Left" Width="120" Password="password"/>
         <Label Content="Password" HorizontalAlignment="Left" Margin="754,130,0,0" VerticalAlignment="Top"/>
         <Button Click="SelectClick" IsEnabled="False" Name="SelectButton" Content="Select" HorizontalAlignment="Left" Height="24" Margin="796,302,0,0" VerticalAlignment="Top" Width="87"/>
         <ComboBox  IsEditable="True" Margin="784,254,0,0" x:Name="ComboGroup" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Height="24">
