@@ -1,3 +1,3 @@
 # StudiesCoursesInGoogleCalendar
 
-Studies project with Selenium driver.
+Studies project WPF with Selenium driver.
